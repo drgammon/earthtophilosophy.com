@@ -24,18 +24,18 @@ itunes_top_category = "Technology"
 twitter_domain = "earthtophilosophy.com"
 
 [params.authors]
-  [params.authors.andrea]
+  [params.authors.Andrea]
     name = "Andrea Gammon"
     thumbnail = ""
     bio = "They don't call me Dr. Gammon for nothing!"
 
-  [params.authors.claire]
+  [params.authors.Claire]
     name = "Claire Hamlett"
     thumbnail = ""
     bio = ""
 
 [permalinks]
-	# page = "/:filename/"
+	page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
 
@@ -43,11 +43,6 @@ twitter_domain = "earthtophilosophy.com"
     name = "About"
     identifier = "about"
     url = "about"
-
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "contact"
 
 [[Menu.Main]]
     name = "Hosts"
@@ -60,18 +55,7 @@ twitter_domain = "earthtophilosophy.com"
     url = "guest"
 
 [[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
-    url = "#!"
+    name = "Contact"
+    identifier = "contact"
+    url = "contact"
 
-[[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "books"
-    parent = "resources"
-
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "books"
-    parent = "resources"
