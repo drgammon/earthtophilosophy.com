@@ -1,6 +1,6 @@
 baseURL = "https://www.earthtophilosophy.com/"
 languageCode = "en-us"
-title = "🌍 Earth to Philosophy"
+title = "Earth to Philosophy"
 theme = "castanet"
 
 [params]
@@ -17,7 +17,7 @@ itunes_author = "Andrea Gammon and Claire Hamlett"
 itunes_summary = "An Environmental Philosophy Podcast"
 itunes_owner_name = "Andrea Gammon"
 itunes_owner_email = "example@example.org"
-itunes_image = ""
+itunes_image = "https://www.earthtophilosophy.com/img/logo.png"
 itunes_top_category = "Technology"
 
 [params.social]
