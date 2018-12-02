@@ -26,13 +26,13 @@ twitter_domain = "earthtophilosophy.com"
 [params.authors]
   [params.authors.Andrea]
     name = "Andrea Gammon"
-    thumbnail = ""
+    thumbnail = "/img/host/agammon.jpg"
     bio = "They don't call me Dr. Gammon for nothing!"
 
   [params.authors.Claire]
     name = "Claire Hamlett"
-    thumbnail = ""
-    bio = ""
+    thumbnail = "/img/host/chamlett.jpg"
+    bio = "HELLO"
 
 [permalinks]
 	page = "/:filename/"
