@@ -8,7 +8,7 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "/img/host/agammon.jpg"
 Pinterest = ""
-Instagram = ""
+Instagram = "andrea.gammon"
 YouTube = ""
 Title = "Andrea Gammon"
 +++
