@@ -6,4 +6,4 @@ Date = 2018-10-17T20:50:36+02:00
 
 # About Us
 
-A conversation-based podcast with philosophers working on nature and the environment. 
+Earth To Philosophy is a conversation-based podcast featuring philosophers working on nature and the environment.
