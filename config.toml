@@ -6,7 +6,7 @@ theme = "castanet"
 [params]
 copyright_notice = "Copyright 2018 Andrea Gammon and Claire Hamlett"
 description = "An Environmental Philosophy Podcast"
-media_prefix = "http://example.org/"
+media_prefix = "/"
 site_theme = "blue"
 enable_jumbo = "true"
 site_layout = "grid"
