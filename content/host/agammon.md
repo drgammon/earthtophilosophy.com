@@ -12,3 +12,6 @@ Instagram = ""
 YouTube = ""
 Title = "Andrea Gammon"
 +++
+
+
+Andrea Gammon studied environmental philosophy at the University of Montana (USA) and at Radboud Universiteit Nijmegen (Nijmegen, The Netherlands). She 
