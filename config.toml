@@ -29,6 +29,11 @@ twitter_domain = "earthtophilosophy.com"
     thumbnail = ""
     bio = "They don't call me Dr. Gammon for nothing!"
 
+  [params.authors.claire]
+    name = "Claire Hamlett"
+    thumbnail = ""
+    bio = ""
+
 [permalinks]
 	# page = "/:filename/"
 	about = "/:filename/"
