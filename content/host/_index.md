@@ -1,8 +1,8 @@
 +++
-Date = 2018-12-02T14:51:08+01:00
+Date = 2018-12-02T15:28:39+01:00
 Twitter = ""
 Website = ""
-Type = "guest"
+Type = "host"
 Facebook = ""
 Linkedin = ""
 GitHub = ""
@@ -10,6 +10,4 @@ Thumbnail = ""
 Pinterest = ""
 Instagram = ""
 YouTube = ""
-#Aka = []
-Title = "Christopher Peston"
 +++

@@ -4,7 +4,7 @@ title = "🌍 Earth to Philosophy"
 theme = "castanet"
 
 [params]
-copyright_notice = "Copyright 2018 Andrea Gammon and Claire Hamlett"
+copyright_notice = "© 2018 Andrea Gammon and Claire Hamlett"
 description = "An Environmental Philosophy Podcast"
 media_prefix = "/"
 site_theme = "blue"
@@ -12,7 +12,7 @@ enable_jumbo = "true"
 site_layout = "grid"
 
 [params.feed]
-copyright = "Copyright 2018 Andrea Gammon and Claire Hamlett"
+copyright = "© 2018 Andrea Gammon and Claire Hamlett"
 itunes_author = "Andrea Gammon and Claire Hamlett"
 itunes_summary = "An Environmental Philosophy Podcast"
 itunes_owner_name = "Andrea Gammon"
@@ -27,12 +27,12 @@ twitter_domain = "earthtophilosophy.com"
   [params.authors.Andrea]
     name = "Andrea Gammon"
     thumbnail = "/img/host/agammon.jpg"
-    bio = "They don't call me Dr. Gammon for nothing!"
+    bio = ""
 
   [params.authors.Claire]
     name = "Claire Hamlett"
     thumbnail = "/img/host/chamlett.jpg"
-    bio = "HELLO"
+    bio = ""
 
 [permalinks]
 	page = "/:filename/"
@@ -53,9 +53,3 @@ twitter_domain = "earthtophilosophy.com"
     name = "Guests"
     identifier = "guests"
     url = "guest"
-
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "contact"
-
