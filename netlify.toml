@@ -2,9 +2,10 @@
   HUGO_VERSION = "0.52"
   
 [[redirects]]
-  from = "/"
-  to = "/earth-to-philosophy/"
+  from = "*"
+  to = "/earth-to-philosophy/:splat"
   status = 302
+  force = true
   
 [[redirects]]
   from = "/earth-to-philosophy/*"
