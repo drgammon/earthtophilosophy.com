@@ -14,4 +14,4 @@ Title = "Andrea Gammon"
 +++
 
 
-Andrea Gammon studied environmental philosophy at the University of Montana (USA) and at Radboud University (the Netherlands). She defended her Ph.D. on rewilding and place in 2018, and she currently lives in the Netherlands. You can find her work at www.andreagammon.com or on her [academia page](https://uni-nl.academia.edu/AndreaGammon). 
+Andrea Gammon teaches philosophy and ethics at TU Delft in the Netherlands. Her Ph.D. in environmental philosophy (2018) focused on rewilding, place, and cultural landscapes, and her M.A. research was on climate change and climate engineering. You can find her work at www.andreagammon.com or on her [academia page](https://uni-nl.academia.edu/AndreaGammon). (Andrea is from the U.S., and has the American accent.)
