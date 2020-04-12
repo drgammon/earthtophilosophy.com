@@ -2,6 +2,6 @@
   HUGO_VERSION = "0.52"
   
 [[redirects]]
-  from = "*"
+  from = "/earth-to-philosophy/*"
   to = "https://shows.acast.com/:splat"
   status = 200
