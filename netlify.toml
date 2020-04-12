@@ -3,11 +3,6 @@
   
 [[redirects]]
   from = "/"
-  to = "/earth-to-philosophy/"
+  to = "https://shows.acast.com/earth-to-philosophy/"
   status = 302
   force = true
-  
-[[redirects]]
-  from = "/*"
-  to = "https://shows.acast.com/:splat"
-  status = 200
