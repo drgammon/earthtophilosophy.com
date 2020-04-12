@@ -3,5 +3,5 @@
   
 [[redirects]]
   from = "/earth-to-philosophy/*"
-  to = "https://shows.acast.com/:splat"
+  to = "https://shows.acast.com/earth-to-philosophy/:splat"
   status = 200
