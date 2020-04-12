@@ -4,7 +4,7 @@
 [[redirects]]
   from = "/"
   to = "/earth-to-philosophy/"
-  status = 200
+  status = 302
   force = true
   
 [[redirects]]
