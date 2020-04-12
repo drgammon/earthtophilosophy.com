@@ -1,6 +1,6 @@
 +++
 Date = 2018-12-02T14:50:56+01:00
-Twitter = ""
+Twitter = "@HamlettClaire"
 Website = ""
 Type = "host"
 Facebook = ""
@@ -12,3 +12,4 @@ Instagram = ""
 YouTube = ""
 Title = "Claire Hamlett"
 +++
+Claire Hamlett is a writer and campaigner based in Oxford. She wrote her Master's thesis on climate change and moral philosophy and now writes about co-existence between humans and wildlife. Follow her on Twitter @HamlettClaire.
